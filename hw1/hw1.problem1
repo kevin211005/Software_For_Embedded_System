@@ -1,0 +1,35 @@
+Script started on Mon Jan 24 02:43:55 2022
+# d echo "Ho ello 2022 and new     the new quarter"
+Hello 2022 and the new quarter
+# c date
+Mon Jan 24 02:44:22 UTC 2022
+# d c c find /home
+/home
+# cd /home
+# ls -all
+total 8
+drwxr-xr-x 1 root root 4096 Jan 24 02:43 .
+drwxr-xr-x 1 root root 4096 Jan 24 02:02 ..
+# mak  kdir tmep   emp
+# r mv tmep   em  p temp_new
+# fc  cd t	 em  temp_new
+# echo > file5
+# c mv file5 test
+# cd ..
+# rv   v t	emp_new^[[D^[[D^[[D                      m -t   r fil	   temp_new
+# echo "" d U It's secret  " > secretfile
+# ls -a   l 
+total 4
+-rw-r--r-- 1 root root 12 Jan 24 02:47 secretfile
+# chnod 555 d d d secr	 retfile
+sh: 15: chnod: not found
+# ^[[A^[[D^[[A            cho mo od 555 scr  ecretfile
+# ^[[A    ls -l 
+total 4
+-r-xr-xr-x 1 root root 12 Jan 24 02:47 secretfile
+# c cat secretfile^[[D^[[D^[[D                      > secret  file <<EOF
+> some text  
+> EOF
+# exit
+
+Script done on Mon Jan 24 03:00:55 2022

@@ -1,0 +1,11 @@
+#repo
+bin/
+build/
+html/
+latex/
+tmp/
+#
+~*
+_.o
+_.a
+
