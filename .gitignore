@@ -3,9 +3,9 @@ bin/
 build/
 html/
 latex/
+.vscode/
 tmp/
 #
-~*
-_.o
-_.a
+*.o
+*.a
 
