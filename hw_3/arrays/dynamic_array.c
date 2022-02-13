@@ -45,16 +45,13 @@ static void extend_buffer ( DynamicArray * da ) {
     return;
 
 }
-
 /* public functions **********************************************************/
-
 DynamicArray * DynamicArray_new(void) {
     DynamicArray * da = (DynamicArray *) malloc(sizeof(DynamicArray));
     da->capacity = DYNAMIC_ARRAY_INITIAL_CAPACITY;    
     da->buffer = (double *) calloc ( da->capacity, sizeof(double) ); 
     da->origin = da->capacity / 2;
     da->end = da->origin;
-    //counter.append();
     return da;
 }
 

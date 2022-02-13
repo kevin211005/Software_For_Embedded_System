@@ -6,7 +6,6 @@ typedef struct {
     int capacity,
         origin,
         end;
-    int number;
     double * buffer;
 } DynamicArray;
 
