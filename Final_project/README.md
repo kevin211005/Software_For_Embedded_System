@@ -11,7 +11,7 @@ docker run -p80:80 -p8765:8765 -v  $PWD:/source -it klavins/enviro:v1.5 bash
 ```bash
 esm start 
 ```
-- All enviroment is setted now.
+- All environment is setted now.
 - Construct this project by 
 ```bash
 Make
