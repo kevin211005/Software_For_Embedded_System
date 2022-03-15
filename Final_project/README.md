@@ -7,20 +7,20 @@ The main goal of this project is to build the simple maze like video game. The p
 ```bash
 docker run -p80:80 -p8765:8765 -v  $PWD:/source -it klavins/enviro:v1.5 bash
 ```
--The next step: start ENVIRO run
+- The next step: start ENVIRO run
 ```bash
 esm start 
 ```
--All enviroment is setted now.
--Construct this project by 
+- All enviroment is setted now.
+- Construct this project by 
 ```bash
 Make
 ```
--Run this project to local server
+- Run this project to local server
 ```
 enviro
 ```
--Using web browser http://localhost to see the ENVIRO client
+- Using web browser http://localhost to see the ENVIRO client
 
 ## Challenge 
 ## Introduction 
