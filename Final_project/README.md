@@ -46,6 +46,6 @@ For this projects, there are three main challenges.
     
     iii. Return the start point 
 ## Introduction 
-    -Background story
+Background story
     There is the people who was be imprisoned, and his head is be implanted the chip that will be detected from the wall if this chip is too close the wall. Thus, if this person want to escape from the jail, he has to stay away from the wall, and the chip will sent the location inforamtion regularly, so he can't stop if he decide to escape.   
 ## Reference 
