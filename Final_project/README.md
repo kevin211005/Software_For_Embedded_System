@@ -67,11 +67,13 @@ For this projects, there are three main challenges.
         detect the collision between agent and agent, so putting sensor to detect the wall is needed and do it by
         """bash
         
-        sensor: [{
+        "sensor": [
+        {
            "type": "range",
            "location": { "x": 12, "y": 0 },
            "direction": 0
-        }]
+        }
+        ]
         
         """
     
