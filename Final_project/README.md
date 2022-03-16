@@ -32,16 +32,20 @@ For this projects, there are three main challenges.
     
     ii. Understand each elements meaning in the config.json.
     
-    In order to create the maze, basic knowlegde of json and project config is needed, here is the reference of those inforamtion.
-    https://github.com/klavinslab/enviro
+    In order to create the maze, basic knowlegde of json and project config is needed. 
     
+    Here is the reference of those inforamtion.
+    https://github.com/klavinslab/enviro
+  
     https://github.com/tbonaciUW/EEP_520_Winter2022/blob/main/week8/Lecture8_README.md
     
 2. Control the robot
 
     i.  Watch Keyboard event
+    Using watch command to detect the keyboards action
     
-    ii. Set the reasonable initial speed of robot 
+    ii. Set the reasonable initial speed of robot
+    manually fine-tune the initial speed of robot 
     
 3. Monitor collison 
 
