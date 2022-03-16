@@ -35,6 +35,7 @@ For this projects, there are three main challenges.
     In order to create the maze, basic knowlegde of json and project config is needed. 
     
     Here is the reference of those inforamtion.
+    
     https://github.com/klavinslab/enviro
   
     https://github.com/tbonaciUW/EEP_520_Winter2022/blob/main/week8/Lecture8_README.md
@@ -42,10 +43,14 @@ For this projects, there are three main challenges.
 2. Control the robot
 
     i.  Watch Keyboard event
+    
         Using watch command to detect the keyboards action
     
     ii. Set the reasonable initial speed of robot
-        manually fine-tune the initial speed of robot 
+    
+        manually fine-tune the initial speed of robot and set the speed to robot by 
+        
+        void track_velocity(double linear_velocity, double angular_velocity, double kL=10, double kR=10)
     
 3. Monitor collison 
 
