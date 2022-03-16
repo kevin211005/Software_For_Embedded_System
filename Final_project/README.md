@@ -27,8 +27,11 @@ enviro
 ## Challenge 
 For this projects, there are three main challenges. 
 1. Create the maze. 
+
     i.  In order to create the maze we need to figure out how to write the json file.
+    
     ii. Understand each elements meaning in the config.json.
+    
 2. Control the robot
     i.  Watch Keyboard event
     ii. Set the reasonable initial speed of robot 
