@@ -1,7 +1,7 @@
 Enviro Academic License
 ===
 
-© 2019 University of Washington and Eric Klavins
+© 2022 and Kevin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to a non-exclusive, nontransferable, perpetual license to copy, modify, and perform the Software for non-profit academic and research purposes. For clarity, use of the software as part of a non-profit university cost center is allowed.
 
