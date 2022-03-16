@@ -60,7 +60,10 @@ Only two ways to control this people,
 
 -Press ```s``` in keyborads to turn right 
 
--During the game, let people's head away from the hall and regularly scaning sensor 
+-During the game, let people's head away from the wall and regularly scaning sensor 
 
--If be detected, it will return to the start point. 
+-If be detected, it will return to the start point.
+
+-If passed the maze, ![image](https://user-images.githubusercontent.com/86145579/158494744-a1f1c557-17b4-4c86-bf22-15a5ef0dbf94.png)
+it will shows in your terminal 
 ## Reference 
