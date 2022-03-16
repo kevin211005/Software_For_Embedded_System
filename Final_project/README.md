@@ -53,7 +53,7 @@ For this projects, there are three main challenges.
     
     ii. Set the reasonable initial speed of robot
     
-    manually fine-tune the initial speed of robot and set the speed to robot by 
+    Manually fine-tune the initial speed of robot and set the speed to robot by 
         
         void track_velocity(double linear_velocity, double angular_velocity, double kL=10, double kR=10)
     
@@ -62,6 +62,16 @@ For this projects, there are three main challenges.
     i. Detect the collison between agent and static elements 
     
     ii. Monitor the collison between agent and agent 
+    
+    To detect the collision ```void notice_collisions_with(const std::string agent_type, std::function<void(Event&)> handler)``` is used to detect the collision, but it only
+        detect the collision between agent and agent, so putting sensor to detect the wall is needed and do it by
+        """
+        sensor: [{
+           "type": "range",
+           "location": { "x": 12, "y": 0 },
+           "direction": 0
+        }]
+        """
     
     iii. Return the start point 
 ## Introduction 
