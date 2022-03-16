@@ -44,11 +44,13 @@ For this projects, there are three main challenges.
 
     i.  Watch Keyboard event
     
-        Using watch command to detect the keyboards action
+    Using watch command to detect the keyboards action by 
+        watch("keydown", [&](Event &e) {
+            auto k = e.value()["key"].get<std::string>();});
     
     ii. Set the reasonable initial speed of robot
     
-        manually fine-tune the initial speed of robot and set the speed to robot by 
+    manually fine-tune the initial speed of robot and set the speed to robot by 
         
         void track_velocity(double linear_velocity, double angular_velocity, double kL=10, double kR=10)
     
