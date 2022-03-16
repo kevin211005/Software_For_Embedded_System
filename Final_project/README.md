@@ -65,12 +65,14 @@ For this projects, there are three main challenges.
     
     To detect the collision ```void notice_collisions_with(const std::string agent_type, std::function<void(Event&)> handler)``` is used to detect the collision, but it only
         detect the collision between agent and agent, so putting sensor to detect the wall is needed and do it by
-        """
+        """bash
+        
         sensor: [{
            "type": "range",
            "location": { "x": 12, "y": 0 },
            "direction": 0
         }]
+        
         """
     
     iii. Return the start point 
