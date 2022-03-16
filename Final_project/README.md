@@ -33,11 +33,17 @@ For this projects, there are three main challenges.
     ii. Understand each elements meaning in the config.json.
     
 2. Control the robot
+
     i.  Watch Keyboard event
+    
     ii. Set the reasonable initial speed of robot 
-4. Monitor collison 
+    
+3. Monitor collison 
+
     i. Detect the collison between agent and static elements 
+    
     ii. Monitor the collison between agent and agent 
+    
     iii. Return the start point 
 ## Introduction 
 ## Reference 
