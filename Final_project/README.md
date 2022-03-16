@@ -25,5 +25,16 @@ enviro
 - Using web browser http://localhost to see the ENVIRO client
 
 ## Challenge 
+For this projects, there are three main challenges. 
+1. Create the maze. 
+    i.  In order to create the maze we need to figure out how to write the json file.
+    ii. Understand each elements meaning in the config.json.
+2. Control the robot
+    i.  Watch Keyboard event
+    ii. Set the reasonable initial speed of robot 
+4. Monitor collison 
+    i. Detect the collison between agent and static elements 
+    ii. Monitor the collison between agent and agent 
+    iii. Return the start point 
 ## Introduction 
 ## Reference 
