@@ -42,10 +42,10 @@ For this projects, there are three main challenges.
 2. Control the robot
 
     i.  Watch Keyboard event
-    Using watch command to detect the keyboards action
+        Using watch command to detect the keyboards action
     
     ii. Set the reasonable initial speed of robot
-    manually fine-tune the initial speed of robot 
+        manually fine-tune the initial speed of robot 
     
 3. Monitor collison 
 
