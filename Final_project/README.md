@@ -48,5 +48,19 @@ For this projects, there are three main challenges.
 ## Introduction 
 Background story
 
-There is the people who was be imprisoned, and his head is be implanted the chip that will be detected from the wall if this chip is too close the wall. Thus, if this person want to escape from the jail, he has to stay away from the wall, and the chip will sent the location inforamtion regularly, so he can't stop if he decide to escape.   
+There is the people who was be imprisoned, and his head is be implanted the chip that will be detected from the wall if this chip is too close the wall. Thus, if this person want to escape from the jail, he has to stay away from the wall, and the chip will sent the location inforamtion regularly, so he can't stop if he decide to escape. 
+
+For this game,
+
+Press start button to start the game!
+
+Only two ways to control this people,
+
+-Press ```w``` in keyboards to turn left 
+
+-Press ```s``` in keyborads to turn right 
+
+-During the game, let people's head away from the hall and regularly scaning sensor 
+
+-If be detected, it will return to the start point. 
 ## Reference 
