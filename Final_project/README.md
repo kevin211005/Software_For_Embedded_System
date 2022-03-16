@@ -45,6 +45,7 @@ For this projects, there are three main challenges.
     i.  Watch Keyboard event
     
     Using watch command to detect the keyboards action by 
+    
         watch("keydown", [&](Event &e) {
             auto k = e.value()["key"].get<std::string>();});
     
